@@ -36,3 +36,9 @@ th, td, caption {
     background-color: #ddd;
     color: black;
   }
+
+  footer{
+    overflow: hidden;
+    background-color: #333;
+    color: #f2f2f2;
+}
